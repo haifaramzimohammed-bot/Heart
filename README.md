@@ -29,3 +29,8 @@ A Machine Learning-based web application designed to predict and evaluate heart 
    Run the following command in your terminal to install the required libraries:
    ```bash
    pip install streamlit pandas scikit-learn
+
+3. **Run the Application:**
+  Execute the following command in your terminal to launch the web app:
+   ```bash
+   streamlit run app.py
